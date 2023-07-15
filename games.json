@@ -1,0 +1,694 @@
+[
+	{
+		"game_number": 1,
+		"total_kills": 0,
+		"players": {},
+		"kills_by_means": {}
+	},
+	{
+		"game_number": 2,
+		"total_kills": 0,
+		"players": {},
+		"kills_by_means": {}
+	},
+	{
+		"game_number": 3,
+		"total_kills": 11,
+		"players": {
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": -7
+			},
+			"Mocinha": {
+				"name": "Mocinha",
+				"kills": 0
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 1,
+			"MOD_ROCKET_SPLASH": 3,
+			"MOD_TRIGGER_HURT": 7
+		}
+	},
+	{
+		"game_number": 4,
+		"total_kills": 4,
+		"players": {
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": -1
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 1
+			},
+			"Mocinha": {
+				"name": "Mocinha",
+				"kills": 0
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": -2
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 1,
+			"MOD_ROCKET": 1,
+			"MOD_TRIGGER_HURT": 2
+		}
+	},
+	{
+		"game_number": 5,
+		"total_kills": 105,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 12
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 9
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 19
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 20
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 11,
+			"MOD_MACHINEGUN": 4,
+			"MOD_RAILGUN": 8,
+			"MOD_ROCKET": 20,
+			"MOD_ROCKET_SPLASH": 51,
+			"MOD_SHOTGUN": 2,
+			"MOD_TRIGGER_HURT": 9
+		}
+	},
+	{
+		"game_number": 6,
+		"total_kills": 14,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": -1
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 0
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 2
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 1
+			}
+		},
+		"kills_by_means": {
+			"MOD_RAILGUN": 1,
+			"MOD_ROCKET": 4,
+			"MOD_ROCKET_SPLASH": 4,
+			"MOD_TRIGGER_HURT": 5
+		}
+	},
+	{
+		"game_number": 7,
+		"total_kills": 29,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 1
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 2
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 3
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": 0
+			},
+			"Maluquinho": {
+				"name": "Maluquinho",
+				"kills": 0
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 8
+			},
+			"UnnamedPlayer": {
+				"name": "UnnamedPlayer",
+				"kills": 0
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 7
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 1,
+			"MOD_MACHINEGUN": 1,
+			"MOD_RAILGUN": 2,
+			"MOD_ROCKET": 5,
+			"MOD_ROCKET_SPLASH": 13,
+			"MOD_SHOTGUN": 4,
+			"MOD_TRIGGER_HURT": 3
+		}
+	},
+	{
+		"game_number": 8,
+		"total_kills": 130,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 19
+			},
+			"Chessus": {
+				"name": "Chessus",
+				"kills": 0
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 10
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 14
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": -3
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 20
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 8
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 7,
+			"MOD_MACHINEGUN": 9,
+			"MOD_RAILGUN": 9,
+			"MOD_ROCKET": 29,
+			"MOD_ROCKET_SPLASH": 49,
+			"MOD_SHOTGUN": 7,
+			"MOD_TRIGGER_HURT": 20
+		}
+	},
+	{
+		"game_number": 9,
+		"total_kills": 89,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 9
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 1
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 20
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": -3
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 15
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 12
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 6,
+			"MOD_MACHINEGUN": 4,
+			"MOD_RAILGUN": 12,
+			"MOD_ROCKET": 18,
+			"MOD_ROCKET_SPLASH": 39,
+			"MOD_SHOTGUN": 1,
+			"MOD_TRIGGER_HURT": 9
+		}
+	},
+	{
+		"game_number": 10,
+		"total_kills": 67,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 7
+			},
+			"Chessus": {
+				"name": "Chessus",
+				"kills": 8
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 1
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 1
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": 2
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 8
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 12
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 3,
+			"MOD_MACHINEGUN": 3,
+			"MOD_RAILGUN": 10,
+			"MOD_ROCKET": 17,
+			"MOD_ROCKET_SPLASH": 25,
+			"MOD_SHOTGUN": 1,
+			"MOD_TRIGGER_HURT": 8
+		}
+	},
+	{
+		"game_number": 11,
+		"total_kills": 60,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 3
+			},
+			"Chessus": {
+				"name": "Chessus",
+				"kills": 5
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 3
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 5
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": 1
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": -1
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 7
+			}
+		},
+		"kills_by_means": {
+			"MOD_BFG": 2,
+			"MOD_BFG_SPLASH": 2,
+			"MOD_CRUSH": 1,
+			"MOD_MACHINEGUN": 1,
+			"MOD_RAILGUN": 7,
+			"MOD_ROCKET": 4,
+			"MOD_ROCKET_SPLASH": 1,
+			"MOD_TELEFRAG": 25,
+			"MOD_TRIGGER_HURT": 17
+		}
+	},
+	{
+		"game_number": 12,
+		"total_kills": 20,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": -3
+			},
+			"Chessus": {
+				"name": "Chessus",
+				"kills": 0
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": -2
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 4
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": 0
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 4
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 0
+			}
+		},
+		"kills_by_means": {
+			"MOD_BFG_SPLASH": 3,
+			"MOD_CRUSH": 1,
+			"MOD_MACHINEGUN": 1,
+			"MOD_RAILGUN": 4,
+			"MOD_ROCKET_SPLASH": 4,
+			"MOD_TRIGGER_HURT": 7
+		}
+	},
+	{
+		"game_number": 13,
+		"total_kills": 160,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 18
+			},
+			"Chessus": {
+				"name": "Chessus",
+				"kills": 12
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 3
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 24
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": -7
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 12
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 11
+			}
+		},
+		"kills_by_means": {
+			"MOD_BFG": 8,
+			"MOD_BFG_SPLASH": 8,
+			"MOD_FALLING": 2,
+			"MOD_MACHINEGUN": 7,
+			"MOD_RAILGUN": 38,
+			"MOD_ROCKET": 25,
+			"MOD_ROCKET_SPLASH": 35,
+			"MOD_TRIGGER_HURT": 37
+		}
+	},
+	{
+		"game_number": 14,
+		"total_kills": 6,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 0
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": -1
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": -1
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 1
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 2
+			}
+		},
+		"kills_by_means": {
+			"MOD_BFG": 1,
+			"MOD_BFG_SPLASH": 1,
+			"MOD_ROCKET": 1,
+			"MOD_ROCKET_SPLASH": 1,
+			"MOD_TRIGGER_HURT": 2
+		}
+	},
+	{
+		"game_number": 15,
+		"total_kills": 122,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 3
+			},
+			"Chessus": {
+				"name": "Chessus",
+				"kills": 7
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 1
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 22
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": -5
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 9
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 4
+			}
+		},
+		"kills_by_means": {
+			"MOD_BFG": 5,
+			"MOD_BFG_SPLASH": 10,
+			"MOD_FALLING": 5,
+			"MOD_MACHINEGUN": 4,
+			"MOD_RAILGUN": 20,
+			"MOD_ROCKET": 23,
+			"MOD_ROCKET_SPLASH": 24,
+			"MOD_TRIGGER_HURT": 31
+		}
+	},
+	{
+		"game_number": 16,
+		"total_kills": 3,
+		"players": {
+			"Zeh": {
+				"name": "Zeh",
+				"kills": -3
+			}
+		},
+		"kills_by_means": {
+			"MOD_TRIGGER_HURT": 3
+		}
+	},
+	{
+		"game_number": 17,
+		"total_kills": 0,
+		"players": {},
+		"kills_by_means": {}
+	},
+	{
+		"game_number": 18,
+		"total_kills": 13,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": -3
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": -2
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 0
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": -1
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 0
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 0
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 3,
+			"MOD_RAILGUN": 2,
+			"MOD_ROCKET_SPLASH": 2,
+			"MOD_TRIGGER_HURT": 6
+		}
+	},
+	{
+		"game_number": 19,
+		"total_kills": 7,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 2
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": -1
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 1
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": -1
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 0
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 2
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 1,
+			"MOD_ROCKET": 1,
+			"MOD_ROCKET_SPLASH": 4,
+			"MOD_TRIGGER_HURT": 1
+		}
+	},
+	{
+		"game_number": 20,
+		"total_kills": 95,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 8
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 12
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 13
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": 2
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 10
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 20
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 1,
+			"MOD_MACHINEGUN": 7,
+			"MOD_RAILGUN": 10,
+			"MOD_ROCKET": 27,
+			"MOD_ROCKET_SPLASH": 32,
+			"MOD_SHOTGUN": 6,
+			"MOD_TRIGGER_HURT": 12
+		}
+	},
+	{
+		"game_number": 21,
+		"total_kills": 3,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 0
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 1
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 1
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 0
+			}
+		},
+		"kills_by_means": {
+			"MOD_ROCKET": 1,
+			"MOD_ROCKET_SPLASH": 2
+		}
+	},
+	{
+		"game_number": 22,
+		"total_kills": 131,
+		"players": {
+			"Assasinu Credi": {
+				"name": "Assasinu Credi",
+				"kills": 16
+			},
+			"Dono da Bola": {
+				"name": "Dono da Bola",
+				"kills": 12
+			},
+			"Isgalamido": {
+				"name": "Isgalamido",
+				"kills": 17
+			},
+			"Mal": {
+				"name": "Mal",
+				"kills": 6
+			},
+			"Oootsimo": {
+				"name": "Oootsimo",
+				"kills": 21
+			},
+			"Zeh": {
+				"name": "Zeh",
+				"kills": 19
+			}
+		},
+		"kills_by_means": {
+			"MOD_FALLING": 3,
+			"MOD_MACHINEGUN": 4,
+			"MOD_RAILGUN": 9,
+			"MOD_ROCKET": 37,
+			"MOD_ROCKET_SPLASH": 60,
+			"MOD_SHOTGUN": 4,
+			"MOD_TRIGGER_HURT": 14
+		}
+	}
+]

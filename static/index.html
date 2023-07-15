@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Upload QGames Log</title>
+  </head>
+  <body>
+    <h1>Upload QGames Log</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+      <input type="file" id="qgames" name="qgames" accept=".log" />
+      <input type="button" value="Upload" onclick="uploadFile()" />
+    </form>
+
+    <h2>Results:</h2>
+    <pre id="results"></pre>
+
+    <script>
+      function uploadFile() {
+        var file = document.getElementById("qgames").files[0];
+        var formData = new FormData();
+        formData.append("qgames", file);
+
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "/upload", true);
+
+        xhr.onload = function () {
+          if (xhr.status === 200) {
+            // On successful response, pretty print JSON
+            var json = JSON.parse(xhr.responseText);
+            document.getElementById("results").innerText = JSON.stringify(
+              json,
+              null,
+              2
+            );
+          } else {
+            document.getElementById("results").innerText =
+              "An error occurred: " + xhr.responseText;
+          }
+        };
+
+        xhr.send(formData);
+      }
+    </script>
+  </body>
+</html>
